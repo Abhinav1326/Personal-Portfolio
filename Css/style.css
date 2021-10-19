@@ -537,7 +537,7 @@ header {
 	}
 
 	.aboutText {
-		background-image: url("/Gallery/bg.jpg");
+		background-image: url("Gallery/bg.jpg");
 		height: 90vh;
 		width: 95%;
 	}
