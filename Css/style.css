@@ -541,4 +541,7 @@ header {
 		height: 90vh;
 		width: 95%;
 	}
+	#about .aboutText p {
+	color: #000;
+}
 }
